@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "titleSmall": "Weekend Trip 2026",
+    "titleMain": "高雄 <span class=\"title-accent\">·</span> 週末之旅",
+    "accentColor": "#f28c38",
+    "dateRange": "5月15日 至 5月17日",
+    "tripStartIso": "2026-05-15",
+    "tripEndIso": "2026-05-17",
+    "travellers": {
+      "group": {
+        "label": "全團",
+        "members": "",
+        "color": "#f28c38"
+      }
+    },
+    "cities": {
+      "kaohsiung": {
+        "label": "高雄",
+        "latitude": 22.6273,
+        "longitude": 120.3014,
+        "timezone": "Asia/Taipei",
+        "startIso": "2026-05-15",
+        "endIso": "2026-05-17"
+      }
+    },
+    "flights": [
+      {
+        "teamKey": "group",
+        "airlineLogo": "assets/icon/cx_logo.png",
+        "outbound": {
+          "date": "15/5",
+          "flight": "CX448",
+          "route": "香港 至 高雄",
+          "time": "21:40 - 23:10"
+        },
+        "inbound": {
+          "date": "17/5",
+          "flight": "CX459",
+          "route": "高雄 至 香港",
+          "time": "19:10 - 20:50"
+        }
+      }
+    ],
+    "footerNote": "點擊景點可查看詳細資訊",
+    "hotels": {
+      "kaohsiung": {
+        "name": "Hotel Midtown Richardson - Kaohsiung Bo Ai",
+        "address": "No.338, Bo'ai 1st Road, Sanmin District, Kaohsiung City 807, Taiwan"
+      }
+    },
+    "infoCard": {
+      "hint": "以上資料可用於填寫航空公司、酒店或旅遊保險資料\n請按實際訂單及證件資料核實",
+      "overviewRows": [
+        {
+          "label": "入境機場",
+          "value": "高雄國際機場（KHH）"
+        },
+        {
+          "label": "旅遊目的",
+          "value": "觀光"
+        },
+        {
+          "label": "主要交通",
+          "value": "高雄捷運、輕軌、渡輪、的士"
+        }
+      ]
+    },
+    "expenses": {
+      "enabled": true,
+      "tripId": "kaohsiung-2026",
+      "title": "支出記錄",
+      "groupMode": "single",
+      "teamsEnabled": false,
+      "baseCurrency": "TWD",
+      "settlementCurrency": "TWD",
+      "defaultMembers": [
+        "Marco"
+      ],
+      "currencies": [
+        "TWD",
+        "HKD",
+        "CNY",
+        "JPY",
+        "KRW",
+        "USD"
+      ],
+      "defaultExchangeRates": {
+        "TWD": 1,
+        "HKD": 4.1,
+        "CNY": 4.35,
+        "JPY": 0.21,
+        "KRW": 0.023,
+        "USD": 31.0
+      },
+      "features": {
+        "quickAdd": true,
+        "splitMethod": true,
+        "ocr": true,
+        "excelExport": true,
+        "jsonBackup": true,
+        "activityLog": true
+      }
+    }
+  },
+  "days": [
+    {
+      "label": "Day 1",
+      "date": "5月15日",
+      "title": "抵達高雄",
+      "subtitle": "高雄機場  六合夜市  美麗島站",
+      "isoDate": "2026-05-15",
+      "city": "kaohsiung",
+      "items": [
+        {
+          "time": "21:40",
+          "icon": "✈️",
+          "title": "香港出發",
+          "note": "CX448  HKG-KHH  21:40 - 23:10",
+          "popup": true,
+          "detail": "乘搭 CX448 由香港出發前往高雄。夜機抵達，行程以簡單宵夜及打卡為主。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+International+Airport"
+        },
+        {
+          "time": "23:10",
+          "icon": "🛬",
+          "title": "抵達高雄國際機場",
+          "note": "KHH 高雄國際機場",
+          "popup": true,
+          "detail": "抵達後按實際時間出關及領行李。如時間太夜，可視乎體力先到酒店放低行李，再決定是否去六合夜市。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+International+Airport"
+        },
+        {
+          "time": "23:50",
+          "icon": "🌃",
+          "title": "六合夜市",
+          "note": "到埗後第一站  小食及夜市氣氛",
+          "popup": true,
+          "detail": "六合夜市近美麗島站，交通方便，適合作為高雄第一晚的輕鬆行程。重點可試木瓜牛奶、海鮮、炸物及台式夜市小食。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Liuhe+Night+Market+Kaohsiung"
+        },
+        {
+          "time": "00:30",
+          "icon": "📸",
+          "title": "美麗島站 光之穹頂",
+          "note": "高雄第一張打卡相",
+          "popup": true,
+          "detail": "美麗島站光之穹頂是高雄經典捷運站打卡位。深夜行程要按實際捷運營運及體力調整，別硬撐，旅行不是審計 deadline。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Formosa+Boulevard+Station+Dome+of+Light"
+        }
+      ]
+    },
+    {
+      "label": "Day 2",
+      "date": "5月16日",
+      "title": "經典高雄一日遊",
+      "subtitle": "蓮池潭  駁二藝術特區  旗津  愛河夜景",
+      "isoDate": "2026-05-16",
+      "city": "kaohsiung",
+      "items": [
+        {
+          "time": "09:30",
+          "icon": "🍳",
+          "title": "酒店附近早餐",
+          "note": "慢慢開始  不用太早搏命",
+          "popup": true,
+          "detail": "前一晚夜機抵達，早上建議不要排得太硬。可在酒店附近簡單食早餐，再出發去蓮池潭。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=breakfast+near+Hotel+Midtown+Richardson+Kaohsiung+Bo+Ai"
+        },
+        {
+          "time": "10:30",
+          "icon": "🐉",
+          "title": "蓮池潭 龍虎塔及春秋閣",
+          "note": "第一次去高雄值得去一次",
+          "popup": true,
+          "detail": "蓮池潭一帶有龍虎塔、春秋閣及多座廟宇地標，屬高雄經典景點。建議用輕鬆散步節奏，不要每座都硬塞。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Lotus+Pond+Dragon+and+Tiger+Pagodas+Kaohsiung"
+        },
+        {
+          "time": "13:00",
+          "icon": "🍜",
+          "title": "午餐：左營或鹽埕方向",
+          "note": "鴨肉飯、牛肉湯、虱目魚可考慮",
+          "popup": true,
+          "detail": "可按實際路線選左營附近或回鹽埕方向午餐。高雄小吃不少，重點不是打卡數量，而是胃容量管理。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+duck+rice+milkfish+beef+soup"
+        },
+        {
+          "time": "14:30",
+          "icon": "🎨",
+          "title": "駁二藝術特區",
+          "note": "舊倉庫文創區  影相、展覽、咖啡",
+          "popup": true,
+          "detail": "駁二藝術特區是高雄穩陣景點，舊倉庫改造成文化藝術空間，適合影相、睇展覽、飲咖啡及慢慢行。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Pier-2+Art+Center+Kaohsiung"
+        },
+        {
+          "time": "17:00",
+          "icon": "⛴️",
+          "title": "鼓山渡輪站前往旗津",
+          "note": "搭船去旗津  黃昏海邊行程",
+          "popup": true,
+          "detail": "由駁二一帶去鼓山渡輪站，再搭渡輪前往旗津。第一次去高雄，旗津優先度高過再塞多幾個市區景點。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Gushan+Ferry+Pier+Kaohsiung"
+        },
+        {
+          "time": "17:30",
+          "icon": "🌅",
+          "title": "旗津海邊及日落",
+          "note": "海鮮、海邊、燈塔方向慢行",
+          "popup": true,
+          "detail": "旗津適合食海鮮、行海邊、睇日落。若體力許可，可加旗津老街、海岸公園或燈塔方向。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Cijin+Kaohsiung"
+        },
+        {
+          "time": "20:30",
+          "icon": "🎵",
+          "title": "愛河／高雄流行音樂中心",
+          "note": "夜景收尾  輕鬆散步",
+          "popup": true,
+          "detail": "晚上以愛河及高雄流行音樂中心夜景作收尾，節奏舒服，不需要再硬塞商場。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+Music+Center+Love+River"
+        }
+      ]
+    },
+    {
+      "label": "Day 3",
+      "date": "5月17日",
+      "title": "慢遊及回程",
+      "subtitle": "鹽埕埔  駁二補行  市區商圈  高雄機場",
+      "isoDate": "2026-05-17",
+      "city": "kaohsiung",
+      "items": [
+        {
+          "time": "09:30",
+          "icon": "☕",
+          "title": "鹽埕埔早餐／咖啡",
+          "note": "慢慢食早餐  買手信",
+          "popup": true,
+          "detail": "最後一日不建議安排太遠，鹽埕埔、駁二一帶適合慢慢食早餐、飲咖啡、補買手信。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Yanchengpu+Kaohsiung+breakfast+cafe"
+        },
+        {
+          "time": "11:00",
+          "icon": "🎨",
+          "title": "駁二補行或輕軌沿線",
+          "note": "前一日未行完可補行",
+          "popup": true,
+          "detail": "如果星期六駁二未行夠，可安排補行；否則可沿輕軌或海邊方向短途散步。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Pier-2+Art+Center+Kaohsiung"
+        },
+        {
+          "time": "13:30",
+          "icon": "🛍️",
+          "title": "三多商圈／新崛江／中央公園",
+          "note": "按回程時間揀一個近捷運位置 hea 行",
+          "popup": true,
+          "detail": "中午至下午視乎回程時間，三多商圈、新崛江或中央公園擇一即可。時間緊就不要貪心，機票通常不接受創意解釋。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Sanduo+Shopping+District+Kaohsiung"
+        },
+        {
+          "time": "16:30",
+          "icon": "🧳",
+          "title": "回酒店取行李／前往機場",
+          "note": "預留交通及出境時間",
+          "popup": true,
+          "detail": "建議按實際行李、交通及機場情況預留充足時間前往高雄國際機場。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Hotel+Midtown+Richardson+Kaohsiung+Bo+Ai"
+        },
+        {
+          "time": "19:10",
+          "icon": "✈️",
+          "title": "高雄回香港",
+          "note": "CX459  KHH-HKG  19:10 - 20:50",
+          "popup": true,
+          "detail": "乘搭 CX459 由高雄返回香港，結束週末高雄行程。",
+          "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+International+Airport"
+        }
+      ]
+    }
+  ],
+  "snacks": {
+    "title": "高雄小食清單",
+    "subtitle": "路過即食  不設時間  點擊可開啟地圖",
+    "items": [
+      {
+        "title": "六合夜市",
+        "area": "新興區",
+        "category": "夜市",
+        "must": "木瓜牛奶、海鮮、炸物",
+        "note": "適合第一晚打卡體驗，近美麗島站。",
+        "opening": "夜晚為主",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Liuhe+Night+Market+Kaohsiung"
+      },
+      {
+        "title": "自強夜市",
+        "area": "苓雅區",
+        "category": "地道夜市",
+        "must": "台式小吃、滷味、飲品",
+        "note": "想地道一點可考慮，不一定要和六合同晚硬塞。",
+        "opening": "夜晚為主",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Ziqiang+Night+Market+Kaohsiung"
+      },
+      {
+        "title": "光華夜市",
+        "area": "前鎮／苓雅一帶",
+        "category": "夜市",
+        "must": "小吃、熱炒、飲品",
+        "note": "較生活化的夜市選項，可視乎住宿及交通安排。",
+        "opening": "夜晚為主",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Guanghua+Night+Market+Kaohsiung"
+      },
+      {
+        "title": "鴨肉飯",
+        "area": "高雄市區",
+        "category": "高雄小吃",
+        "must": "鴨肉飯、鴨肉切盤",
+        "note": "高雄經典小吃之一，午餐或晚餐都合適。",
+        "opening": "視乎店舖",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+duck+rice"
+      },
+      {
+        "title": "虱目魚",
+        "area": "高雄市區",
+        "category": "台式早餐／午餐",
+        "must": "虱目魚粥、魚肚湯",
+        "note": "適合早午餐，口味清爽。",
+        "opening": "早上至下午為主",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+milkfish"
+      },
+      {
+        "title": "牛肉湯",
+        "area": "高雄市區",
+        "category": "台式熱湯",
+        "must": "牛肉湯、白飯小菜",
+        "note": "想食熱湯可以排入早餐或午餐。",
+        "opening": "視乎店舖",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Kaohsiung+beef+soup"
+      },
+      {
+        "title": "旗津海鮮",
+        "area": "旗津",
+        "category": "海鮮",
+        "must": "炒蜆、烤魷魚、海產熱炒",
+        "note": "配合旗津黃昏行程最順路。",
+        "opening": "午餐至晚餐為主",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Cijin+seafood+Kaohsiung"
+      }
+    ]
+  }
+}
